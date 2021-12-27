@@ -28,3 +28,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+thus the distance between two points is found using python algorithm
